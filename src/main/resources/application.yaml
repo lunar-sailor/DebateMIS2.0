@@ -1,0 +1,7 @@
+spring:
+
+  mvc:
+    #启用rest风格
+    hiddenmethod:
+      filter:
+        enabled: true
